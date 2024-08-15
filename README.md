@@ -5,7 +5,7 @@
 </div>
 
 
-<h3 align="center">Welcome to my profile</h3>
+<h2 align="center">Welcome to my profile</h2>
 
 <div align="center">
     <a href="mailto:mayradlu1503@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
@@ -14,7 +14,7 @@
 <div/>
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
     <!-- Primera fila -->
     <img src="https://skillicons.dev/icons?i=vscode,github,mysql,mongodb,python,cpp" /><br>
