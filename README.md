@@ -17,11 +17,13 @@
 <h2 align="center">⚒️ Tools ⚒️</h2>
 <div align="center">
     <!-- Primera fila -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="48px" />
     <img src="https://skillicons.dev/icons?i=vscode,github,mysql,mongodb,python,cpp" /><br>
     <!-- Segunda fila -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="48px" />
-    <img src="https://skillicons.dev/icons?i=matlab,html,css,r,latex,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=matlab,html,css,r,latex" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript" /><br>
 </div>
 
 
