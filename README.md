@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="48px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="48px" />
     <img src="https://skillicons.dev/icons?i=matlab,html,css,r,latex" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,bootstrap" /><br>
 </div>
 
 
